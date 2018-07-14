@@ -7,7 +7,7 @@ func main() {
 }
 
 func saberEdad() (texto string, edad int) {
-	texto = "Esto sería un texto"
+	texto = "Esto sería un texto "
 	edad = 10
 	return texto, edad
 }
