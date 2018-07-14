@@ -13,7 +13,7 @@ func main() {
 	pais := "España"
 	pais = "Colombia"
 
-	fmt.Println("Hola mundo desde Go con " + nombre + " " + apellidos + " " + pais)
+	fmt.Println("Hola mundo desde Go  con " + nombre + " " + apellidos + " " + pais)
 	fmt.Println(suma)
 	fmt.Println(resta)
 }
