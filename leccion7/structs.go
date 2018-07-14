@@ -14,7 +14,7 @@ type Estudiante struct {
 func main() {
 	var alumno1 = Estudiante{
 		nombre:    "Alex",
-		apellidos: "Cubero Arrizabalaga",
+		apellidos: "Cubero Arrizabalaga ",
 		edad:      22,
 		hombre:    true}
 	var alumno2 = Estudiante{"Juan", "Primo Rivera", 23, true}
