@@ -17,4 +17,5 @@ func main() {
 	ntestamento := [3]string{"Mateo", "Marcos", "Lucas"}
 
 	fmt.Println(ntestamento)
+	fmt.Println("Final")
 }
