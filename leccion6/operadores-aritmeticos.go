@@ -11,7 +11,7 @@ func main() {
 	fmt.Println(numero1 + numero2)
 
 	//Resta
-	fmt.Println("Restar:")
+	fmt.Println("Restar: ")
 	fmt.Println(numero1 - numero2)
 
 	//Multiplacion
