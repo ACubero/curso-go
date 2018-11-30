@@ -47,4 +47,27 @@ var routes = Routes{
 		"/movie/{id}",
 		MovieShow,
 	},
-}
+	Route{
+		"MovieShow",
+		"GET",
+		"/movie/{id}",
+		MovieShow,
+	},
+	Route{
+		"MovieAdd",
+		"POST",
+		"/movie",
+		MovieAdd,
+	},
+	Route{
+		"MovieUpdate",
+		"PUT",
+		"/movie/{id}",
+		MovieUpdate,
+	},
+	Route{
+		"MovieDelete",
+		"DELETE",
+		"/movie/{id}",
+		MovieDelete,
+	}}
